@@ -1,3 +1,4 @@
+// Alumno: SUAREZ ZENIQUEL, Tomas Alfonso - DNI: 44622142
 const PromptSync = require("prompt-sync");
 const prompt = PromptSync(); 
 
