@@ -17,4 +17,5 @@ El contenido se organizará de la siguiente manera dentro de la carpeta `Practic
 
 ---
 *Estudiante: Suarez Zeniquel, Tomas*
+
 *Año: 2026*
